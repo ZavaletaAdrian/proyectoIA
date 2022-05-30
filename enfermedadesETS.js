@@ -1,3 +1,19 @@
+function tomaDeDatos(){
+  var sintoma = document.createElement('label');
+  sintoma.textContent = "Secreción";
+  var valorSintoma = document.createElement('select');
+  valorSintoma.setAttribute("name", "valor");
+  var opcion1 = document.createElement('option');
+  opcion1.innerHTML = "si duele";
+  var opcion2 = document.createElement('option');
+  opcion2.innerHTML = "maso duele";
+  document.body.appendChild(sintoma);
+  document.body.appendChild(valorSintoma);
+  valorSintoma.appendChild(opcion1);
+  valorSintoma.appendChild(opcion2);
+}
+
+
 const nombreEnfermedad = {
   nombre: "nombreEnfermedad",
   descripcion: "descripcionEnfermedad",
