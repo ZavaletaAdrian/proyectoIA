@@ -1,11 +1,18 @@
 html {
-  background-color: black;
+  /* background-color: black; */
+  background: linear-gradient(#0c2461, #1e3799, #4a69bd, #6a89cc);
   font-size: 30px;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-bottom: 5%;
 }
 h1, h4, h6 {
   text-align: center;
   color: rgb(255, 255, 255);
+}
+label{
+  color: #2f3542;
+  font-weight: bold;
+  margin-top: 1%;
 }
 #divForm{
     text-align: center;    /* margin-left: 100px; */
@@ -30,11 +37,13 @@ h1, h4, h6 {
 }
 #presentacionDatos{
   height: auto;
-  background-color: rgb(189, 189, 189);
+  background-color: #c7ecee;
 }
 #labelDiv{
   margin-left: 15%;
   margin-right: 15%;
+  padding-top: 1%;
+  padding-bottom: 1%;
 }
 #div1{
   background-color: rgb(203, 204, 149);
@@ -58,14 +67,17 @@ select{
 }
 button{
   width: 20%;
-  height: 100px;
+  margin-top: 40px;
+  height: 70px;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 100%;
-  color: #444;
+  color: #222f3e;
   border-radius: 0.5cm;
+  background-color: #6ab04c;
+  border: none;
 }
 button:hover{
-  background-color: #ccc;
+  background-color: #badc58;
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
@@ -99,6 +111,7 @@ input[type="text"] {
   text-align: center;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 100%;
+  border-radius: 0.3cm;
 
 }
     /* The switch - the box around the slider */
