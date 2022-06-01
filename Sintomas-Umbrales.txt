@@ -1,0 +1,27 @@
+Sintomas-Umbrales
+
+TENEMOS                         TOGGLE 2 / RADIO 3-5 /              DESPLEGABLE 6-8 /        SLIDER 9-10 (Caso especial - Pegados)
+
+1 Secrecion                           RADIO
+2 Ardor al orinar                     RADIO
+3 Dolor e inflamación                         SLIDER
+4 Sangrado                                            DESPLEGABLE
+5 Picazón/irritacion                  RADIO
+6 Dolor abdominal                     RADIO
+7 Orina oscura                    TOGGLE
+8 Fiebre                                      SLIDER
+9 Dolor articular/muscular            RADIO
+10 Pérdida del apetito             TOGGLE
+11 Náuseas/vómito                  TOGGLE
+12 Debilidad y fatiga                          SLIDER
+13 Color amarillento en piel       TOGGLE
+14 Ampollas/erupciones/llagas                          DESPLEGABLE
+15 Escalofríos                         RADIO
+16 Dolor de cabeza                     RADIO
+17 Manchas oscuras                 TOGGLE
+18 Insectos/huevesillos            TOGGLE
+19 Dolor/inflamacion de garganta               SLIDER
+20 Diarrea                             RADIO
+21 Perdida de peso                                     DESPLEGABLE
+22 Tos                                 RADIO
+23 Dificultad en movimientos/parálisis RADIO
