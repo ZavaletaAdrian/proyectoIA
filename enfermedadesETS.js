@@ -1,28 +1,28 @@
 var Enfermedades = {
-  Clamidia: {
+  "Clamidia": {
     sintomas: {
-      Secrecion: 0.7,
+      "Secrecion": 0.7,
       "Ardor al orinar": 0.7,
       "Dolor e inflamación": 0.4,
-      Sangrado: 0.5,
+      "Sangrado": 0.5,
       "Picazón/irritacion": 0,
       "Dolor abdominal": 0.5,
       "Orina oscura": 0,
-      Fiebre: 0.5,
+      "Fiebre": 0.5,
       "Dolor articular/muscular": 0,
       "Pérdida del apetito": 0,
       "Náuseas/vómito": 0.5,
       "Debilidad y fatiga": 0,
       "Color amarillento en piel": 0,
       "Ampollas/erupciones/llagas": 0,
-      Escalofríos: 0,
+      "Escalofríos": 0,
       "Dolor de cabeza": 0,
       "Manchas oscuras": 0,
       "Insectos/huevesillos": 0,
       "Dolor/inflamacion de garganta": 0,
-      Diarrea: 0,
+      "Diarrea": 0,
       "Perdida de peso": 0,
-      Tos: 0,
+      "Tos": 0,
       "Dificultad en movimientos/parálisis": 0,
     },
     descripcion:
@@ -30,30 +30,30 @@ var Enfermedades = {
     recomendaciones:
       "Usted debe acudir a su proveedor de salud para un examen si presenta síntomas de la clamidia, o si su pareja tiene una enfermedad de transmisión sexual. Las mujeres embarazadas deben hacerse una prueba cuando van a su primera visita prenatal. La infección se cura con antibióticos. Es posible obtenerlos en una sola dosis, o puede que tenga que tomar medicamentos durante siete días. Los antibióticos no curarán cualquier daño permanente que haya causado la enfermedad. Para evitar infectar a su pareja, usted no debe tener relaciones sexuales hasta que la infección haya terminado. Si recibió una dosis única de antibióticos, debe esperar siete días después de tomar la medicina para volver a tener relaciones sexuales.",
   },
-  Gonorrea: {
+  "Gonorrea": {
     sintomas: {
-      Secrecion: 0.7,
+      "Secrecion": 0.7,
       "Ardor al orinar": 0.7,
       "Dolor e inflamación": 0.7,
-      Sangrado: 0.3,
+      "Sangrado": 0.3,
       "Picazón/irritacion": 0.3,
       "Dolor abdominal": 0,
       "Orina oscura": 0,
-      Fiebre: 0,
+      "Fiebre": 0,
       "Dolor articular/muscular": 0.6,
       "Pérdida del apetito": 0,
       "Náuseas/vómito": 0,
       "Debilidad y fatiga": 0,
       "Color amarillento en piel": 0,
       "Ampollas/erupciones/llagas": 0,
-      Escalofríos: 0,
+      "Escalofríos": 0,
       "Dolor de cabeza": 0,
       "Manchas oscuras": 0,
       "Insectos/huevesillos": 0,
       "Dolor/inflamacion de garganta": 0,
-      Diarrea: 0,
+      "Diarrea": 0,
       "Perdida de peso": 0,
-      Tos: 0,
+      "Tos": 0,
       "Dificultad en movimientos/parálisis": 0,
     },
     descripcion:
@@ -63,28 +63,28 @@ var Enfermedades = {
   },
   "Hepatitis B": {
     sintomas: {
-      Secrecion: 0,
+      "Secrecion": 0,
       "Ardor al orinar": 0,
       "Dolor e inflamación": 0,
-      Sangrado: 0,
+      "Sangrado": 0,
       "Picazón/irritacion": 0,
       "Dolor abdominal": 0.5,
       "Orina oscura": 1,
-      Fiebre: 0.5,
+      "Fiebre": 0.5,
       "Dolor articular/muscular": 0.5,
       "Pérdida del apetito": 0.5,
       "Náuseas/vómito": 0.5,
       "Debilidad y fatiga": 0.5,
       "Color amarillento en piel": 1,
       "Ampollas/erupciones/llagas": 0.7,
-      Escalofríos: 0,
+      "Escalofríos": 0,
       "Dolor de cabeza": 0,
       "Manchas oscuras": 0,
       "Insectos/huevesillos": 0,
       "Dolor/inflamacion de garganta": 0,
-      Diarrea: 0.3,
+      "Diarrea": 0.3,
       "Perdida de peso": 0,
-      Tos: 0,
+      "Tos": 0,
       "Dificultad en movimientos/parálisis": 0,
     },
     descripcion:
@@ -92,30 +92,30 @@ var Enfermedades = {
     recomendaciones:
       "Los doctores generalmente no tratan la hepatitis B a menos que se vuelva crónica. Los doctores pueden tratar la hepatitis B crónica con medicinas antivirales que atacan el virus. No todas las personas con hepatitis B crónica necesitan tratamiento. Si los análisis de sangre muestran que la hepatitis B podría estar dañándole el hígado, su doctor puede recetarle medicinas antivirales para reducir su probabilidad de tener daño al hígado y las posibles complicaciones. Puede tomar medidas para protegerse de la hepatitis B, entre ellas, vacunarse contra la hepatitis B. ",
   },
-  Herpes: {
+  "Herpes": {
     sintomas: {
-      Secrecion: 0,
+      "Secrecion": 0,
       "Ardor al orinar": 0.5,
       "Dolor e inflamación": 0.5,
-      Sangrado: 0,
+      "Sangrado": 0,
       "Picazón/irritacion": 0.5,
       "Dolor abdominal": 0,
       "Orina oscura": 0,
-      Fiebre: 0.5,
+      "Fiebre": 0.5,
       "Dolor articular/muscular": 0.4,
       "Pérdida del apetito": 0,
       "Náuseas/vómito": 0,
       "Debilidad y fatiga": 0.4,
       "Color amarillento en piel": 0,
       "Ampollas/erupciones/llagas": 1,
-      Escalofríos: 0.4,
+      "Escalofríos": 0.4,
       "Dolor de cabeza": 0.4,
       "Manchas oscuras": 0,
       "Insectos/huevesillos": 0,
       "Dolor/inflamacion de garganta": 0.4,
-      Diarrea: 0,
+      "Diarrea": 0,
       "Perdida de peso": 0,
-      Tos: 0,
+      "Tos": 0,
       "Dificultad en movimientos/parálisis": 0,
     },
     descripcion:
@@ -123,30 +123,30 @@ var Enfermedades = {
     recomendaciones:
       "No existe una cura para el herpes. No obstante, hay medicamentos que pueden prevenir o disminuir la duración de los brotes. Uno de estos medicamentos puede tomarse todos los días y reduce la probabilidad de que usted les pase la infección a su pareja o parejas sexuales.",
   },
-  Ladillas: {
+  "Ladillas": {
     sintomas: {
-      Secrecion: 0,
+      "Secrecion": 0,
       "Ardor al orinar": 0,
       "Dolor e inflamación": 0,
-      Sangrado: 0,
+      "Sangrado": 0,
       "Picazón/irritacion": 1,
       "Dolor abdominal": 0,
       "Orina oscura": 0,
-      Fiebre: 0.5,
+      "Fiebre": 0.5,
       "Dolor articular/muscular": 0,
       "Pérdida del apetito": 0,
       "Náuseas/vómito": 0,
       "Debilidad y fatiga": 0,
       "Color amarillento en piel": 0,
       "Ampollas/erupciones/llagas": 0,
-      Escalofríos: 0,
+      "Escalofríos": 0,
       "Dolor de cabeza": 0,
       "Manchas oscuras": 0.7,
       "Insectos/huevesillos": 1,
       "Dolor/inflamacion de garganta": 0,
-      Diarrea: 0,
+      "Diarrea": 0,
       "Perdida de peso": 0,
-      Tos: 0,
+      "Tos": 0,
       "Dificultad en movimientos/parálisis": 0,
     },
     descripcion:
@@ -156,28 +156,28 @@ var Enfermedades = {
   },
   "Sida/VIH": {
     sintomas: {
-      Secrecion: 0,
+      "Secrecion": 0,
       "Ardor al orinar": 0,
       "Dolor e inflamación": 0,
-      Sangrado: 0.4,
+      "Sangrado": 0.4,
       "Picazón/irritacion": 0,
       "Dolor abdominal": 0,
       "Orina oscura": 0,
-      Fiebre: 0.7,
+      "Fiebre": 0.7,
       "Dolor articular/muscular": 0.6,
       "Pérdida del apetito": 0,
       "Náuseas/vómito": 0,
       "Debilidad y fatiga": 0.9,
       "Color amarillento en piel": 0,
       "Ampollas/erupciones/llagas": 0.4,
-      Escalofríos: 0.8,
+      "Escalofríos": 0.8,
       "Dolor de cabeza": 0.7,
       "Manchas oscuras": 0,
       "Insectos/huevesillos": 0,
       "Dolor/inflamacion de garganta": 0.8,
-      Diarrea: 0.7,
+      "Diarrea": 0.7,
       "Perdida de peso": 0.7,
-      Tos: 0.7,
+      "Tos": 0.7,
       "Dificultad en movimientos/parálisis": 0.3,
     },
     descripcion:
@@ -185,30 +185,30 @@ var Enfermedades = {
     recomendaciones:
       "El tratamiento de la infección por el VIH se llama tratamiento antirretroviral (TAR). El TAR es una combinación de medicamentos contra el VIH (llamado régimen de tratamiento) que se debe tomar a diario. A todas las personas con infección por el VIH se les recomienda el TAR. El TAR no cura el VIH, pero los medicamentos contra el VIH ayudan a las personas que lo tienen a llevar una vida más larga y sana. El TAR reduce también el riesgo de transmisión del VIH.",
   },
-  Sífilis: {
+  "Sífilis": {
     sintomas: {
-      Secrecion: 0,
+      "Secrecion": 0,
       "Ardor al orinar": 0,
       "Dolor e inflamación": 0,
-      Sangrado: 0,
+      "Sangrado": 0,
       "Picazón/irritacion": 0,
       "Dolor abdominal": 0,
       "Orina oscura": 0,
-      Fiebre: 0.4,
+      "Fiebre": 0.4,
       "Dolor articular/muscular": 0.4,
       "Pérdida del apetito": 0,
       "Náuseas/vómito": 0,
       "Debilidad y fatiga": 0,
       "Color amarillento en piel": 0,
       "Ampollas/erupciones/llagas": 0.8,
-      Escalofríos: 0,
+      "Escalofríos": 0,
       "Dolor de cabeza": 0,
       "Manchas oscuras": 0,
       "Insectos/huevesillos": 0,
       "Dolor/inflamacion de garganta": 0.4,
-      Diarrea: 0,
+      "Diarrea": 0,
       "Perdida de peso": 0.3,
-      Tos: 0,
+      "Tos": 0,
       "Dificultad en movimientos/parálisis": 0.4,
     },
     descripcion:
@@ -216,30 +216,30 @@ var Enfermedades = {
     recomendaciones:
       "La sífilis temprana se puede curar, algunas veces con una sola inyección de penicilina. la sífilis se puede curar con los antibióticos correctos que le recetará un proveedor de atención médica. Sin embargo, el tratamiento no revertirá ningún daño que la infección haya ya causado.",
   },
-  Tricomonas: {
+  "Tricomonas": {
     sintomas: {
-      Secrecion: 0.5,
+      "Secrecion": 0.5,
       "Ardor al orinar": 0.5,
       "Dolor e inflamación": 0.3,
-      Sangrado: 0,
+      "Sangrado": 0,
       "Picazón/irritacion": 0.5,
       "Dolor abdominal": 0,
       "Orina oscura": 0,
-      Fiebre: 0,
+      "Fiebre": 0,
       "Dolor articular/muscular": 0,
       "Pérdida del apetito": 0,
       "Náuseas/vómito": 0,
       "Debilidad y fatiga": 0,
       "Color amarillento en piel": 0,
       "Ampollas/erupciones/llagas": 0,
-      Escalofríos: 0,
+      "Escalofríos": 0,
       "Dolor de cabeza": 0,
       "Manchas oscuras": 0,
       "Insectos/huevesillos": 0,
       "Dolor/inflamacion de garganta": 0,
-      Diarrea: 0,
+      "Diarrea": 0,
       "Perdida de peso": 0,
-      Tos: 0,
+      "Tos": 0,
       "Dificultad en movimientos/parálisis": 0,
     },
     descripcion:
@@ -249,28 +249,28 @@ var Enfermedades = {
   },
   "Virus del papiloma humano": {
     sintomas: {
-      Secrecion: 0,
+      "Secrecion": 0,
       "Ardor al orinar": 0,
       "Dolor e inflamación": 0.5,
-      Sangrado: 0.5,
+      "Sangrado": 0.5,
       "Picazón/irritacion": 0.5,
       "Dolor abdominal": 0,
       "Orina oscura": 0,
-      Fiebre: 0,
+      "Fiebre": 0,
       "Dolor articular/muscular": 0,
       "Pérdida del apetito": 0,
       "Náuseas/vómito": 0,
       "Debilidad y fatiga": 0,
       "Color amarillento en piel": 0,
       "Ampollas/erupciones/llagas": 1,
-      Escalofríos: 0,
+      "Escalofríos": 0,
       "Dolor de cabeza": 0,
       "Manchas oscuras": 0,
       "Insectos/huevesillos": 0,
       "Dolor/inflamacion de garganta": 0.5,
-      Diarrea: 0,
+      "Diarrea": 0,
       "Perdida de peso": 0.5,
-      Tos: 0,
+      "Tos": 0,
       "Dificultad en movimientos/parálisis": 0,
     },
     descripcion:
@@ -280,34 +280,65 @@ var Enfermedades = {
   },
   "Enfermedad inflamatoria pélvica": {
     sintomas: {
-      Secrecion: 0,
+      "Secrecion": 0,
       "Ardor al orinar": 0.5,
       "Dolor e inflamación": 0.6,
-      Sangrado: 0.6,
+      "Sangrado": 0.6,
       "Picazón/irritacion": 0,
       "Dolor abdominal": 0.6,
       "Orina oscura": 0,
-      Fiebre: 0.6,
+      "Fiebre": 0.6,
       "Dolor articular/muscular": 0,
       "Pérdida del apetito": 0,
       "Náuseas/vómito": 0,
       "Debilidad y fatiga": 0.7,
       "Color amarillento en piel": 0,
       "Ampollas/erupciones/llagas": 0,
-      Escalofríos: 0.5,
+      "Escalofríos": 0.5,
       "Dolor de cabeza": 0,
       "Manchas oscuras": 0,
       "Insectos/huevesillos": 0,
       "Dolor/inflamacion de garganta": 0,
-      Diarrea: 0,
+      "Diarrea": 0,
       "Perdida de peso": 0,
-      Tos: 0,
+      "Tos": 0,
       "Dificultad en movimientos/parálisis": 0,
     },
     descripcion:
       "La enfermedad inflamatoria pélvica es una infección de los órganos reproductores femeninos. Generalmente ocurre cuando las bacterias de transmisión sexual se propagan desde la vagina al útero, las trompas de Falopio o los ovarios. Es una complicación generalmente causada por algunas ETS, como la clamidia y la gonorrea. Otras infecciones que no son de transmisión sexual también pueden causar la EIP.",
     recomendaciones:
       "La EIP se puede tratar si se diagnostica temprano. No obstante, el tratamiento no revierte ningún daño que ya se haya producido en el sistema reproductor. Mientras más espere para recibir tratamiento, mayor probabilidad tendrá de presentar complicaciones por la EIP. Es posible que mientras esté tomando los antibióticos sus síntomas desaparezcan antes de que la infección esté curada. Debe terminar de tomar todos sus medicamentos, incluso si los síntomas desaparecen. Tu médico te recetará una combinación de antibióticos para que empieces a tomarlos inmediatamente. Después de recibir los resultados de los análisis de laboratorio, el médico podría ajustar la receta para que coincida mejor con lo que está causando la infección Muy rara vez se requiere cirugía. Sin embargo, si un absceso se rompe o amenaza con romperse, el médico podría drenarlo. También podrías necesitar cirugía si no respondes al tratamiento con antibióticos o si tienes un diagnóstico dudoso, como cuando uno o más de los signos o síntomas de la enfermedad inflamatoria pélvica están ausentes.",
+  },
+  "Sano": {
+    sintomas: {
+      "Secrecion": 0,
+      "Ardor al orinar": 0,
+      "Dolor e inflamación": 0,
+      "Sangrado": 0,
+      "Picazón/irritacion": 0,
+      "Dolor abdominal": 0,
+      "Orina oscura": 0,
+      "Fiebre": 0,
+      "Dolor articular/muscular": 0,
+      "Pérdida del apetito": 0,
+      "Náuseas/vómito": 0,
+      "Debilidad y fatiga": 0,
+      "Color amarillento en piel": 0,
+      "Ampollas/erupciones/llagas": 0,
+      "Escalofríos": 0,
+      "Dolor de cabeza": 0,
+      "Manchas oscuras": 0,
+      "Insectos/huevesillos": 0,
+      "Dolor/inflamacion de garganta": 0,
+      "Diarrea": 0,
+      "Perdida de peso": 0,
+      "Tos": 0,
+      "Dificultad en movimientos/parálisis": 0,
+    },
+    descripcion:
+      "Estas Sano.",
+    recomendaciones:
+      "Mantente así, pero si notas algun problema acude con tu medico de confianza.",
   },
 };
 // ARREGLO DE SINTOMAS DE CADA ENFERMEDAD
@@ -372,6 +403,9 @@ function funcionDiaEspe() {
     var divEnf10 = document.createElement("div");
     divEnf10.innerHTML =
       '<input type="checkbox" class="enfermedadSeleccionada" value="10"> PID';
+    var divEnf11 = document.createElement("div");
+    divEnf11.innerHTML =
+      '<input type="checkbox" class="enfermedadSeleccionada" value="11"> Sano';
     divSelEnf.appendChild(divEnf1);
     divSelEnf.appendChild(divEnf2);
     divSelEnf.appendChild(divEnf3);
@@ -382,6 +416,7 @@ function funcionDiaEspe() {
     divSelEnf.appendChild(divEnf8);
     divSelEnf.appendChild(divEnf9);
     divSelEnf.appendChild(divEnf10);
+    divSelEnf.appendChild(divEnf11);
   } else {
     divSelEnf.setAttribute("activo", "false");
     while (divSelEnf.hasChildNodes()) {
@@ -471,7 +506,7 @@ function tomaDeDatos1XM() {
       "enfermedadSeleccionada"
     );
     var listaEnfSel = [];
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < Object.keys(Enfermedades).length; i++) {
       if (enfermedadSeleccionada[i].checked === true) {
         listaEnfSel.push(Number(enfermedadSeleccionada[i].value - 1));
       }
@@ -506,9 +541,22 @@ function comparacion1(datosUsuario) {
     resultadosFinales.push([suma, contador]);
   });
 
+  // console.log(resultadosFinales);
+  var comprobarSano = 0;
+  for (let i = 0; i < resultadosFinales.length; i++) {
+    if(resultadosFinales[i][0] == 0){
+      comprobarSano++;
+    }
+  }
+  // console.log(resultadosFinales.find(element => element[1] == 11));
+  if(comprobarSano == Object.keys(Enfermedades).length){
+    var val = resultadosFinales.find(element => element[1] == 11);
+    val[0] = 1;
+  }
+  // console.log("Comprobar sano>" + comprobarSano)
+  
   resultadosFinales.sort().reverse();
   // MOSTRAR TOP 5
-
   var top5 = [];
   for (let i = 0; i < 5; i++) {
     top5.push(resultadosFinales[i]);
@@ -516,7 +564,6 @@ function comparacion1(datosUsuario) {
   // console.log(top5);
   presentarDatos1(top5);
 }
-
 // Presentar datos al usuario
 /**
  * It takes the top 5 results from the Bayes algorithm and displays them on the page.
@@ -532,7 +579,6 @@ function presentarDatos1(top5) {
     ", este es un listado de las posibles enfermedades que pudiera tener:";
   var labelEnfTop1 = document.getElementById("Top1");
   labelEnfTop1.innerHTML =
-    "La enfermedad con la que más se relacionan tus síntomas es: " +
     Object.keys(Enfermedades)[top5[0][1] - 1];
   var descEnfTop1 = document.getElementById("Top1Desc");
   descEnfTop1.innerHTML =
@@ -582,18 +628,31 @@ function seleccionarEnfermedades(listaEnfSel, sintomasUsuario) {
   });
   // console.log(comparativaFinal);
   var resultadosFinales = [];
-  var contador = 0;
   for (let i = 0; i < comparativaFinal.length; i++) {
     var sumaEnfermedad = 0;
     comparativaFinal[i].forEach((sintoma) => {
       sumaEnfermedad = sumaEnfermedad + sintoma;
     });
-    resultadosFinales.push([sumaEnfermedad, listaEnfSel[i]]);
+    resultadosFinales.push([sumaEnfermedad, listaEnfSel[i]+1]);
+  }
+
+  // console.log(resultadosFinales);
+  var comprobarSano = 0;
+  for (let i = 0; i < resultadosFinales.length; i++) {
+    if(resultadosFinales[i][0] == 0){
+      comprobarSano++;
+    }
+  }
+  // console.log(resultadosFinales.find(element => element[1] == 11));
+  if(comprobarSano == resultadosFinales.length){
+    var val = resultadosFinales.find(element => element[1] == 11);
+    val[0] = 1;
   }
 
   resultadosFinales.sort().reverse();
   // console.log(resultadosFinales)
   presentarDatos2(resultadosFinales);
+  // console.log(resultadosFinales);
 }
 
 // Presentar datos al usuario
@@ -615,14 +674,17 @@ function presentarDatos2(top) {
   var labelEnfTop1 = document.getElementById("Top1");
   labelEnfTop1.innerHTML =
     "La enfermedad con la que más se relacionan tus síntomas es: " +
-    Object.keys(Enfermedades)[top[0][1]];
+    Object.keys(Enfermedades)[top[0][1]-1];
   var descEnfTop1 = document.getElementById("Top1Desc");
-  descEnfTop1.innerHTML = Object.values(Enfermedades)[top[0][1]].descripcion;
+      // console.log(Object.values(Enfermedades));
+      // console.log(Object.values(Enfermedades)[top[0][1]-1]);
+      // console.log(top)
+  descEnfTop1.innerHTML = Object.values(Enfermedades)[top[0][1]-1].descripcion;
   var RecEnfTop1 = document.getElementById("Top1Rec");
-  RecEnfTop1.innerHTML = Object.values(Enfermedades)[top[0][1]].recomendaciones;
+  RecEnfTop1.innerHTML = Object.values(Enfermedades)[top[0][1]-1].recomendaciones;
   var Top2an = document.getElementById("Top2a5");
   Top2an.innerHTML = "";
   for (let i = 1; i < top.length; i++) {
-    Top2an.innerHTML += Object.keys(Enfermedades)[top[i][1]] + " / ";
+    Top2an.innerHTML += Object.keys(Enfermedades)[top[i][1]-1] + " / ";
   }
 }
